@@ -15,4 +15,3 @@ export default function BotCollection({ botCollection, action, removeCard }) {
     </div>
   )
 }
-
